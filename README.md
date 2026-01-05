@@ -3,7 +3,7 @@
 **Last Updated:** December 25, 2025
 
 ## 1. Overview
-Raymotive built the **[Fruity Catcher]** app as a Free app. This SERVICE is provided by raymotive at no cost and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Raymotive built free games. This SERVICE is provided by raymotive at no cost and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 ---
 
