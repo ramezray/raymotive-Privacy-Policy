@@ -3,12 +3,12 @@
 **Last Updated:** December 25, 2025
 
 ## 1. Overview
-Raymotive built free games. This SERVICE is provided by raymotive at no cost and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Raymotive built free and paid apps. This SERVICE is provided by raymotive and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 ---
 
 ## 2. Information Collection and Use
-We do not personally collect, store, or share any "Personally Identifiable Information" (such as your name, email address, or phone number). 
+We do not personally share any "Personally Identifiable Information" (such as your name, email address, or phone number). 
 
 However, the app uses third-party services that may collect information used to identify you. This data is used solely to provide game functionality, analyze performance, and display advertisements.
 
